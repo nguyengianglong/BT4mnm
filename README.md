@@ -244,6 +244,11 @@ Test:
 
 -Publish + execute node và ta sẽ thấy bài viết trên wordpress
 
++tin nhán tele
+
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/d01ad97d-8f53-4743-96a1-1240674966bf" />
+
+
 <img width="1920" height="992" alt="image" src="https://github.com/user-attachments/assets/7be06890-879b-4622-98d1-82b4c4703017" />
 
 -Node n8n 
